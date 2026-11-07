@@ -1,0 +1,7 @@
+zstandard>=0.22
+numpy
+scikit-learn
+joblib
+matplotlib
+scipy
+pandas
