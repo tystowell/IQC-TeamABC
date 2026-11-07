@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Data comes from the challenge repo
+train-circuits/
+holdout-circuits/
+raw-circuits/
+train-runtime-data.csv
+
+# Generated files
+submission-harness/artifacts/
+submission.csv
+*.png
